@@ -1,7 +1,7 @@
 # TensorTonic Solutions
 
 <!-- tensortonic:start -->
-# Ellie Chang (張怡庭)'s TensorTonic Solutions
+# Ellie's TensorTonic Solutions
 
 Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
 
